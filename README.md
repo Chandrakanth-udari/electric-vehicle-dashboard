@@ -6,7 +6,11 @@ This project analyzes the population of electric vehicles (EVs) using a dataset 
 
 ## Dataset
 
-The dataset used in this analysis is `Electric_Vehicle_Population_Data.csv`. It contains detailed information about electric vehicles, including:
+The dataset used for this analysis is `Electric_Vehicle_Population_Data.csv`. Due to its large size (> 25MB), it is not hosted directly in this repository.
+
+* **Download the dataset:** You can download the full dataset from [**https://drive.google.com/file/d/1W-azENhC_mSXyedVtx1Ld0VXksRnnvBH/view?usp=drive_link**].
+
+The dataset contains detailed information about electric vehicles, including:
 - **VIN (1-10)**: Vehicle Identification Number
 - **County, City, State, Postal Code**: Geographic location of the vehicle
 - **Model Year, Make, Model**: Vehicle details
@@ -26,9 +30,8 @@ The analysis is visualized in an interactive Tableau dashboard. The dashboard pr
 - Vehicle distribution by state
 - Top manufacturers and models
 
-A snapshot of the dashboard is available in the `EV dashboard.jpg` file.
+A snapshot of the dashboard is available in the `EV dashboard.png` file.
 
-[Here you can insert a screenshot of your dashboard. You can use an HTML `img` tag or a Markdown image link.]
 <img src="EV dashboard.png" alt="Electric Vehicle Dashboard Screenshot" width="800"/>
 
 ## Access the Interactive Dashboard
@@ -37,9 +40,8 @@ You can explore the live, interactive version of this dashboard on my Tableau Pu
 
 **[https://public.tableau.com/app/profile/chandrakanth.yadav.udari ]**
 
-_Note: The link you provided was `https://public.tableau.com/app/profile/chandrakanth.yadav.udari`. Please update this with the direct link to the specific dashboard._
-
 ## Files in this Repository
 
 - `Electric_Vehicle_Population_Data.csv`: The raw dataset used for the analysis.
 - `EV dashboard.jpg`: A static image of the Tableau dashboard.
+- `EV dashboard.pdf`: A PDF of Tableau dashboard.

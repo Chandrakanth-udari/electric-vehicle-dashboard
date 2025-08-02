@@ -29,7 +29,7 @@ The analysis is visualized in an interactive Tableau dashboard. The dashboard pr
 A snapshot of the dashboard is available in the `EV dashboard.jpg` file.
 
 [Here you can insert a screenshot of your dashboard. You can use an HTML `img` tag or a Markdown image link.]
-<img src="EV dashboard.jpg" alt="Electric Vehicle Dashboard Screenshot" width="800"/>
+<img src="EV dashboard.png" alt="Electric Vehicle Dashboard Screenshot" width="800"/>
 
 ## Access the Interactive Dashboard
 
